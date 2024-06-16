@@ -4,7 +4,8 @@
 
 Welcome to the Chat App repository! This project is a real-time messaging application built with Socket.io for instant communication between users.
 
-<img width="1424" alt="image" src="https://github.com/jayasai-gorre/Mern-Chat-App/assets/123870905/91610b43-0a82-4a0a-a347-f98a465ad334">
+<img width="1270" alt="image" src="https://github.com/jayasai-gorre/ChatApp-MERN/assets/123870905/b6d466eb-06b4-4650-8262-9cc35ce5b758">
+
 
 
 ## Features
