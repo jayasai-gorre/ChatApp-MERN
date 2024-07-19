@@ -21,7 +21,7 @@ Welcome to the Chat App repository! This project is a real-time messaging applic
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS (Tailwind CSS)
+- **Frontend:** HTML, CSS (Tailwind CSS), React
 - **Backend:** Node.js, Express.js
 - **Real-Time Communication:** Socket.io
 - **UI Framework:** Daisy UI (for components) integrated with Tailwind CSS
